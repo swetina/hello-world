@@ -2,4 +2,5 @@
 ... to learn github
 This is an edit to README.md
 
-And this is a second edit
+Deleting the second
+And adding a third one
